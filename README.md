@@ -1,3 +1,4 @@
+```
 # 🎥 YouTube Chatbot using LangChain
 
 An AI-powered YouTube chatbot that allows users to ask questions about YouTube videos. The application extracts the video's transcript, processes it using LangChain, stores semantic embeddings in FAISS, and uses Google Gemini to generate context-aware answers.
@@ -54,7 +55,7 @@ AI Generated Answer
      │
      ▼
 Streamlit UI    
-
+```
 
 
 <img width="821" height="827" alt="Screenshot 2026-10-04 185313" src="https://github.com/user-attachments/assets/661c993a-cbc3-46da-b58e-a34f363747bf" />
